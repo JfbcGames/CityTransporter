@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7781610880973715638
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5483423331444983834}
+  - component: {fileID: 3028788509811696613}
+  - component: {fileID: 4558362184295632747}
+  - component: {fileID: 700917612290335043}
+  - component: {fileID: 8825592543455264027}
+  m_Layer: 0
+  m_Name: 1_Carrier Office
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5483423331444983834
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7781610880973715638}
+  m_LocalRotation: {x: 0, y: -1, z: 0, w: 0.00000014844458}
+  m_LocalPosition: {x: -24.907515, y: 0, z: -19.138903}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &3028788509811696613
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7781610880973715638}
+  m_Mesh: {fileID: -4548749668530930104, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+--- !u!23 &4558362184295632747
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7781610880973715638}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2915174190239859958, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 2295699958525706655, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -4570653556939160974, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 7266766820844542999, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 1766727720212067227, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 1135887145770233109, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -888511157647582228, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 678067069488541044, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 5130574782987358974, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 2518274736985859239, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 7986128188813965243, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -7238608322629146716, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 2405815452463380669, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -6288994314864691470, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 7359568290639187382, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 4134086598316571425, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -4416299363842749956, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 3322860950725416119, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -2146373066863194218, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 1231666024832241660, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 1568477298387086286, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 3247339975250576896, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -3710970136434601269, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -6596365063533105559, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -1444460858095362738, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 963798294112862009, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 3476468966057060411, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -5547073464868229279, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 1714687109213658499, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 4808624455017824238, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 5089897767489760754, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -5047171444112350498, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!114 &700917612290335043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7781610880973715638}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c3c7aaceae44134da94f560cc441454, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8825592543455264027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7781610880973715638}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4926771d8a1267547923d82028342c9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxCapacity:
+    res: 00000000000000000000000000000000
+  consumption:
+    res: 00000000000000000000000000000000
+  actualStock:
+    res: 00000000000000000000000000000000
+  roadAttachPoint: {x: 0, y: 0, z: 0}
+  maxDurability: 100
+  durability: 100
+  isFeeded: 0
+  isActive: 0

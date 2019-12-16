@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eccf743c3dc5b64f88e6ea829e3a107, type: 3}
+  m_Name: CarrierOffice
+  m_EditorClassIdentifier: 
+  mesh: {fileID: -4548749668530930104, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  mats:
+  - {fileID: 2915174190239859958, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 2295699958525706655, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -4570653556939160974, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 7266766820844542999, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 1766727720212067227, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 1135887145770233109, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -888511157647582228, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 678067069488541044, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 5130574782987358974, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 2518274736985859239, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 7986128188813965243, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -7238608322629146716, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 2405815452463380669, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -6288994314864691470, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 7359568290639187382, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 4134086598316571425, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -4416299363842749956, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 3322860950725416119, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -2146373066863194218, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 1231666024832241660, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 1568477298387086286, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 3247339975250576896, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -3710970136434601269, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -6596365063533105559, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -1444460858095362738, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 963798294112862009, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 3476468966057060411, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -5547073464868229279, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 1714687109213658499, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 4808624455017824238, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: 5089897767489760754, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  - {fileID: -5047171444112350498, guid: 1a41de8256628fa48800cf7671d5e413, type: 3}
+  menuArtwork: {fileID: 21300000, guid: 48a3463b0dd669741b7db11a90e0580b, type: 3}
+  BuildingPointOffset: {x: 0, y: 0, z: 1}
+  buildingName: Carrier Office
+  description: A office to manage your vehicles and transportations
+  cost:
+    res: 96000000c8000000500000003c000000
+  maxCapacity:
+    res: 00000000000000000000000000000000
+  consumption:
+    res: 00000000000000000000000000000000
+  initialStock:
+    res: 00000000000000000000000000000000
+  maxDurability: 100

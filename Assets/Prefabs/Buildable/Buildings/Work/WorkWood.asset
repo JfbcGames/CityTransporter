@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1489cc42259adfc44bfdfe6d8759981d, type: 3}
+  m_Name: WorkWood
+  m_EditorClassIdentifier: 
+  mesh: {fileID: 8167121408497993337, guid: 5e064511b9bcc8148b3cb616a497cb31, type: 3}
+  mats:
+  - {fileID: -8362770965179449474, guid: 5e064511b9bcc8148b3cb616a497cb31, type: 3}
+  menuArtwork: {fileID: 21300000, guid: 4b5acaee4ff4e8648b76579c31b6583d, type: 3}
+  BuildingPointOffset: {x: 0, y: 0, z: 0}
+  buildingName: Wood factory
+  description: A factory to produce wood
+  cost:
+    res: 32000000c80000000f0000003c000000
+  maxCapacity:
+    res: 64000000e80300000000000064000000
+  consumption:
+    res: 00000000010000000000000001000000
+  initialStock:
+    res: 0f0000006e000000000000000f000000
+  maxDurability: 100
+  production:
+    res: 010000000f0000000000000000000000

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e40d4bc87bc20af40bbb98b87f7827e9, type: 3}
+  m_Name: house1
+  m_EditorClassIdentifier: 
+  mesh: {fileID: 7761787777038742567, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  mats:
+  - {fileID: 4134086598316571425, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: 1568477298387086286, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: -8082136787025966042, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: -5264807154133918405, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: 2295699958525706655, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: 1231666024832241660, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: -3710970136434601269, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: 2405815452463380669, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: -5149077462643430075, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: 963798294112862009, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: -6596365063533105559, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: 5130574782987358974, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: -2146373066863194218, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: -1444460858095362738, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: -4570653556939160974, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: -7238608322629146716, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: 7359568290639187382, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: 7266766820844542999, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: -6288994314864691470, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: -4416299363842749956, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: 3322860950725416119, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: -888511157647582228, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: 678067069488541044, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: 2518274736985859239, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: 1766727720212067227, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  - {fileID: 1135887145770233109, guid: 354101d9935777940abf896c04fb2ccf, type: 3}
+  menuArtwork: {fileID: 21300000, guid: f09f139f50bc89a47ac16a150f0044f8, type: 3}
+  BuildingPointOffset: {x: 0, y: 0, z: 2}
+  buildingName: House
+  description: A basic house for your citizens to live in it
+  cost:
+    res: 0a000000280000000500000000000000
+  maxCapacity:
+    res: 00000000640000000000000000000000
+  consumption:
+    res: 00000000010000000000000000000000
+  initialStock:
+    res: 00000000640000000000000000000000
+  maxDurability: 100

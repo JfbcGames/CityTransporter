@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1489cc42259adfc44bfdfe6d8759981d, type: 3}
+  m_Name: WorkGold
+  m_EditorClassIdentifier: 
+  mesh: {fileID: 5605825017512847146, guid: 5f68223b8c7753c4ab74927c164364f0, type: 3}
+  mats:
+  - {fileID: 670224309865224971, guid: 5f68223b8c7753c4ab74927c164364f0, type: 3}
+  menuArtwork: {fileID: 21300000, guid: 9d5dc2d7971710746b0e2b8357002845, type: 3}
+  BuildingPointOffset: {x: 0, y: 0, z: 0}
+  buildingName: Gold Factory
+  description: A factory to produce gold
+  cost:
+    res: c8000000640000000a0000000f000000
+  maxCapacity:
+    res: e8030000640000000000000064000000
+  consumption:
+    res: 00000000010000000000000001000000
+  initialStock:
+    res: 6e000000320000000000000032000000
+  maxDurability: 100
+  production:
+    res: 14000000000000000000000000000000
